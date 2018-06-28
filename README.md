@@ -251,12 +251,55 @@ In this section you will find what I've done in the project. You'll find my lear
 
 #### Goals
 
-#### What I've done
+* Frond-end: Work with module
+* Frond-end: Write functional functions
+* Learn ThreeJS
+* Learn how to test
+* Learn Github flow
 
-#### ThreeJs
+#### What I've done
+As writen in the team progression. What I've done in the first week of project is debriefing our project. Write the user- story & scenario. 
+
+The second week I want to learn ThreeJs so I purchase this book: [ThreeJS Essential](https://www.bol.com/nl/p/three-js-essentials/9200000030597382/) nadnd completed the first Three Chapters because those are relevant for this project. All the other chapters are about how to show graph in ThreeJS.
+
+- You can find the Thee JS Repo that I've worked on here: [ThreeJS](https://github.com/Boegle/3D_Model)
+
+- Link to the demo you can find it here: [Demo](https://boegle.github.io/3D_Model/index.html)
+
+
+However in the third week of the project. I stumbled onto a problem. I don't know how to interact with the 3D object. Our mentor gave advice that maybe __raycasting_) is a solution
+
+>Ray casting is the most basic of many computer graphics rendering algorithms that use the geometric algorithm of ray tracing. Ray tracing-based rendering algorithms operate in image order to render three-dimensional scenes to two-dimensional images. Geometric rays are traced from the eye of the observer to sample the light (radiance) travelling toward the observer from the ray direction. The speed and simplicity of ray casting comes from computing the color of the light without recursively tracing additional rays that sample the radiance incident on the point that the ray hit. This eliminates the possibility of accurately rendering reflections, refractions, or the natural falloff of shadows; however all of these elements can be faked to a degree, by creative use of texture maps or other methods. The high speed of calculation made ray casting a handy rendering method in early real-time 3D video games. - Wikipedia
+
+With [This example](https://threejs.org/examples/#webgl_interactive_cubes) I've tried to replicate it in my own project. However it was too dificult and to complex for to complete. After a discussion with my team we've decided to deprecated ThreeJS for this project, because the don't it's not doable in this time frame complete the project with ThreeJs.
+
+After a  meeting we've decided that I'll work on the result page of the project. You can find all my completed issues here: [Issues](https://github.com/Boegle/Boegle/pulls?utf8=%E2%9C%93&q=is%3Aclosed+is%3Apr+author%3Aniyorn+)
+
+You can find my code here: [Code](https://github.com/niyorn/Boegle/blob/develop/src/js/modules/result.js)
+
+These are the things I primarly worked on, but ofcourse I've worked on other smaller things within the team.
 
 #### Improvement
 
+I've learned a lot while doing this project. First of all I've the difference beteen different task runner (Webpack, Gulp, NPM Script) and difference between different module bundlers (Roll-up, Browserify), also difference between Require (node) and Import (ES6) and that you can able to create and import module in the back-end side with a .mjs file.
+
+>In new versions of Node, CommonJS modules can import .mjs modules, and ES modules can import CJS modules just as people already do with Babel, etc. This is actually awesome - Thomasboyt
+
+And ofcourse I've learned what ThreeJS do and why it was created. I've learned to created import 3D models and created some little interaction with it. However I want learn in further. 
+
+- I want to learn about how can create real interaction with the models. 
+- Also I want to learn the basic of Blender to create and animate my own models.
+
+From the uninspected corner, I've learned about Git flow. I've thought it was easy and that we can all develop on the master branch, however that was not a good idea if you want to avoid conflict. I've learned to create,delete and merge branches from the command line. I've learned about git project and pull request and how to communicate with each other.
+
+Another thing I want to improve is how to do a good test. When we went to the highscool to test our application I've was the one who was leading the participant. While testing the application and when the user stumble onto a problem. My instict is to talk and help the user. But that's not what you want, because you want to know I've the user can find the way on their own and where they will stumble onto a problem. In this aspect I want to improve myself to not talk while testing a application.
+
+And lastly I want ask better question after the test is done. Because I notice that I tend to ask clossed question instead of open question. With clossed question the user is only able to anwser with yes and no, that's not what we want. We want to know what they think and where their frustation lays. Those feedback are essential to improve our product.
+
+
+
 #### Other
 
+I want to take the Mark for the great guidens. Also Emiel, Desley and Emiel for the great teamwork and learning that we've done together.
 
+I also want to thank Cartesius Highschool for the providing us with oppertunity to test our application with the student.
