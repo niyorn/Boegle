@@ -27,7 +27,6 @@ Amsterdam OBA | To search a book
 - [Pogression individually](#progession-individually)
     - [Goals](#goals)
     - [What i've done](#what-ive-done)
-    - [ThreeJs](#threejs)
     - [Improvement](##improvement)
     - [Other](#other)
 
