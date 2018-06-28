@@ -247,6 +247,7 @@ We've also made poster to put at our stand for the end presentation.
 </details>
 
 ### Progression individually
+In this section you will find what I've done in the project. You'll find my learning goals, what I need to improve and others.
 
 #### Goals
 
