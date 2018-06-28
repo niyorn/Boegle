@@ -6,7 +6,7 @@ Amsterdam OBA | To search a book
 
 - [Description](#description)
 - [Getting started](#getting_started)
-- [Progression](#progression)
+- [Progression Team](#progression-team)
     - [Week 1](#week-1)
         - [User story](#user-story)
         - [User scenario](#user-scenario)
@@ -24,6 +24,9 @@ Amsterdam OBA | To search a book
         - [Mobile](#mobile)
         - [Poster](#poster)
         - [Product video](#product-video)
+- [Pogression individually](#progession-individually)
+    -[Goals](#goals)
+    -[What i've done]()
 
 
 ## Description
@@ -55,7 +58,7 @@ Standard port is 3000
 localhost:3000
 ```
 
-## Progression
+## Progression team
 
 *The progression section gives a weekly insight to what the team is working on, what for problems we've encountered and how we've dealth with the problems during our project.*
 
@@ -239,3 +242,17 @@ We've also made poster to put at our stand for the end presentation.
 <img src='readme_assets/poster5.jpeg' alt="Poster">
 <img src='readme_assets/poster6.jpeg' alt="Poster">
 </details>
+
+### Progression individually
+
+#### Goals
+
+#### What I've done
+
+#### ThreeJs
+
+#### Improvement
+
+#### Other
+
+
