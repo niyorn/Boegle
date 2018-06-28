@@ -25,8 +25,11 @@ Amsterdam OBA | To search a book
         - [Poster](#poster)
         - [Product video](#product-video)
 - [Pogression individually](#progession-individually)
-    -[Goals](#goals)
-    -[What i've done]()
+    - [Goals](#goals)
+    - [What i've done](#what-ive-done)
+    - [ThreeJs](#threejs)
+    - [Improvement](##improvement)
+    - [Other](#other)
 
 
 ## Description
